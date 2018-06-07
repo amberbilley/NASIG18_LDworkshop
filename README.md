@@ -1,5 +1,5 @@
-# NASIG17_LDworkshop
-Files for a linked data workshop at NASIG 2017.
+# NASIG18_LDworkshop
+Files for a linked data workshop at NASIG 2018.
 
 Foundations in Linked Data for Serialists
  
