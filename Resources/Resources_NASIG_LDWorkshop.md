@@ -11,13 +11,9 @@ While it isn’t required, we strongly encourage you to bring a laptop to fully 
 
 * NotePad ++ (Windows): [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/) 
 
-* Text Wrangler (Mac): [https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12) 
+* Atom Text Editor (Mac or Windows): https://atom.io/ 
 
-* BBEdit (Mac): [http://www.barebones.com/products/bbedit/](http://www.barebones.com/products/bbedit/) 
-
-* Sublime Text (Free trial for any operating system): [https://www.sublimetext.com/](https://www.sublimetext.com/) 
-
-Email Amber Billey ([ab3167@columbia.edu](mailto:ab3167@columbia.edu)) if you need any help with troubleshooting software installation. 
+Email Amber Billey if you need any help with troubleshooting software installation. 
 
 We also recommend you read/skim these fantastic foundational linked data texts:
 
@@ -36,14 +32,3 @@ We also recommend these RDF Validators:
 * JSON-LD [http://json-ld.org/playground/](http://json-ld.org/playground/)
 
 * Turtle [http://ttl.summerofcode.be/](http://ttl.summerofcode.be/)
-
-
-CONTACT
-
-Amber Billey 
-
-[ab3167@columbia.edu](mailto:ab3167@columbia.edu)
-
-Robert Rendall 
-
-[rr2205@columbia.edu](mailto:rr2205@columbia.edu) 
