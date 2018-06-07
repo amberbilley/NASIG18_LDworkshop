@@ -1,7 +1,7 @@
 Resources for NASIG Linked Data Workshop by Amber Billey and Robert Rendall
 June 8, 2017
 
-Foundations in Linked Data for Serialists workshop on Thursday, June 8, 2017 from 8am-12pm at the Westin Indianapolis room Capital 2 for NASIG!  
+We look forward to seeing you at our Foundations in Linked Data for Serialists workshop on Friday, June 8, 2017 from 8am-5pm at the Grand Hyatt Atlanta in Buckhead in the Buckhead Ballroom I for NASIG 2018!  
  
 While it isn’t required, we strongly encourage you to bring a laptop to fully participate in the workshop. If you bring a laptop, please try to install the following software prior to the workshop. 
 
