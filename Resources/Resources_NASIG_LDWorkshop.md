@@ -32,3 +32,17 @@ We also recommend these RDF Validators:
 * JSON-LD [http://json-ld.org/playground/](http://json-ld.org/playground/)
 
 * Turtle [http://ttl.summerofcode.be/](http://ttl.summerofcode.be/)
+
+Here are other resources we used during the workshop:
+
+* Columbia BF Editor [https://bibframe-editor.cul.columbia.edu/](https://bibframe-editor.cul.columbia.edu/)
+
+* RDF Validator with Graph Visualization [https://www.w3.org/RDF/Validator/](https://www.w3.org/RDF/Validator/)
+
+* RDF Convertor [http://www.easyrdf.org/converter](http://www.easyrdf.org/converter)
+
+* Turtle Validator [http://ttl.summerofcode.be/](http://ttl.summerofcode.be/)
+
+* WebVOWL ontology visualization tool [http://vowl.visualdataweb.org/webvowl.html](http://vowl.visualdataweb.org/webvowl.html)
+
+* LC BIBFRAME website [https://www.loc.gov/bibframe/](https://www.loc.gov/bibframe/)
