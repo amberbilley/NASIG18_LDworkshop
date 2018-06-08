@@ -35,6 +35,8 @@ We also recommend these RDF Validators:
 
 Here are other resources we used during the workshop:
 
+* LC MARC<-->BIBFRAME comparison tool [http://id.loc.gov/tools/bibframe/compare-id/full-ttl](http://id.loc.gov/tools/bibframe/compare-id/full-ttl)
+
 * Columbia BF Editor [https://bibframe-editor.cul.columbia.edu/](https://bibframe-editor.cul.columbia.edu/)
 
 * RDF Validator with Graph Visualization [https://www.w3.org/RDF/Validator/](https://www.w3.org/RDF/Validator/)
